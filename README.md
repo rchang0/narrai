@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+# Getting Started with React and Vite
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses Vite as a build tool and development server for a React application.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+- Node.js (latest LTS version recommended)
+- npm (comes with Node.js) or Yarn
+
+You'll also need to have Vite installed globally:
+
+```
+npm install -g vite
+```
+
+or if you're using Yarn:
+
+```
+yarn global add vite
+```
+
 
 ## Available Scripts
 
